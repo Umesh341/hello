@@ -7,7 +7,7 @@ function page() {
 
   return (
     <div>
-      <button onClick={(e)=>router.push(`/about`)}>go to about page</button>
+      <button onClick={(e)=>router.push(`/about`)}>go to about pageaasa</button>
       Hello world</div>
   )
 }
