@@ -1,7 +1,9 @@
 
 function about() {
   return (
-    <div>About</div>
+    <div>
+      
+      <button onClick={(e)=>router.push(`/`)}>go to HOME page</button>About</div>
   )
 }
 
